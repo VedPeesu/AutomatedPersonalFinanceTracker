@@ -35,5 +35,3 @@ This project was developed to deploy a personal finance tracker and budgeting to
    ```bash
    python tracker.py
   ```
-
-
